@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       alert(`Login attempt with:\nEmail: ${email}\nPassword: ${password}`);
       // TODO: Replace alert with actual login handling
-      window.location.href = "index.html"; // redirect to music player
+      window.location.href = "MUSIC.html"; // redirect to music player
     });
   }
 
@@ -30,3 +30,4 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 });
+
